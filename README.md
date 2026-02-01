@@ -24,9 +24,9 @@ Frontend
 
 ## 👉 4.주요기능
 <img width="1346" height="790" alt="Image" src="https://github.com/user-attachments/assets/6a689d9c-070f-4fdf-83c9-447fd8c572eb" />
-- - -
+- - -<br/>
 <img width="1681" height="861" alt="Image" src="https://github.com/user-attachments/assets/8a06080f-e0d3-4081-9bd0-3b73bd20bd32" />
-- - -
+- - -<br/>
 <img width="912" height="611" alt="Image" src="https://github.com/user-attachments/assets/bbea66e8-1a1a-451b-b75c-13b30db94e51" />
 
 
